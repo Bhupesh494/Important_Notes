@@ -8,5 +8,5 @@ Angular Project Deployment on GitHub Page
 
   
   How to deloy nodejs application on heruko?
-  videoLink using github: https://www.youtube.com/watch?v=gPOa0LvIwHQ
-  videoLink without github repo: https://www.youtube.com/watch?v=r2S89Hm1Uq0
+  1. videoLink using github: https://www.youtube.com/watch?v=gPOa0LvIwHQ
+  2. videoLink without github repo: https://www.youtube.com/watch?v=r2S89Hm1Uq0
